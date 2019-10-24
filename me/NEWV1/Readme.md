@@ -1,1 +1,0 @@
-Ini masih ongoing
