@@ -273,7 +273,7 @@ body {
 }
 .bg-overlay,
 body {
-  background-color: #4aa7c6;
+  background-color: #656873;
   height: 100%;
 }
 .bg-overlay {
@@ -405,7 +405,7 @@ a:visited {
 a:active,
 a:hover {
   text-decoration: none;
-  color: #005173;
+  color: #f7a96c;
 }
 @media (max-width: 767px) {
   a:active,
@@ -509,7 +509,7 @@ header .main-nav ul li a .text:after {
   transition: all 0.35s cubic-bezier(0.23, 1, 0.32, 1);
 }
 header .main-nav ul li a:hover .text:after {
-  background-color: #005173;
+  background-color: #f7a96c;
 }
 @media (max-width: 767px) {
   header .main-nav ul li a:hover .text:after {
@@ -517,7 +517,7 @@ header .main-nav ul li a:hover .text:after {
   }
 }
 header .main-nav ul li a:hover .icon-close {
-  color: #005173;
+  color: #f7a96c;
 }
 @media (max-width: 767px) {
   header .main-nav ul li a:hover .icon-close {
@@ -723,7 +723,7 @@ header .social-nav ul li .icon-twitter {
   right: -40px;
 }
 .roles-wrap ul li a .icon-ext-link {
-  color: #005173;
+  color: #f7a96c;
   opacity: 0;
   font-size: 18px;
   vertical-align: middle;
@@ -866,7 +866,7 @@ header .social-nav ul li .icon-twitter {
   display: inline-block;
   vertical-align: middle;
   margin: 0 3px;
-  color: #97c7d8;
+  color: #f2c7a5;
 }
 .bio-wrap .helper.scroll-helper {
   bottom: 200px;
@@ -884,7 +884,7 @@ header .social-nav ul li .icon-twitter {
   transition: all 0.35s cubic-bezier(0.23, 1, 0.32, 1);
 }
 .bio-wrap .helper.leap-helper:hover span {
-  color: #005173;
+  color: #f7a96c;
 }
 .bio-wrap .helper.leap-helper.inactive {
   opacity: 0;
@@ -920,7 +920,7 @@ header .social-nav ul li .icon-twitter {
 .bio-wrap .timeline .line {
   width: 100%;
   height: 3px;
-  background-color: #97c7d8;
+  background-color: #f2c7a5;
 }
 .bio-wrap .timeline .line .progress {
   width: 0;
@@ -935,7 +935,7 @@ header .social-nav ul li .icon-twitter {
   font-weight: lighter;
   font-size: 1.5625em;
   line-height: 25px;
-  color: #97c7d8;
+  color: #f2c7a5;
   transition: all 0.35s cubic-bezier(0.23, 1, 0.32, 1);
 }
 @media (max-width: 767px) {
@@ -948,7 +948,7 @@ header .social-nav ul li .icon-twitter {
   border-radius: 50px;
   width: 15px;
   height: 15px;
-  background-color: #97c7d8;
+  background-color: #f2c7a5;
   display: block;
   margin: 0 auto 20px;
   transition: all 0.35s cubic-bezier(0.23, 1, 0.32, 1);
